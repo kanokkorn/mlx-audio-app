@@ -1,0 +1,9 @@
+MLX-Audio-App
+=============
+
+random TTS & STT script using mlx, mlx-audio
+
+get started
+-----------
+
+use ` uv sync ` to fetch all python packages then ` uv run xx.py` to run a script 

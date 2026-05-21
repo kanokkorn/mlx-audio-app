@@ -1,0 +1,10 @@
+[project]
+name = "mlx-audio-app"
+version = "0.1.0"
+description = "random TTS & STT script using mlx, mlx-audio"
+readme = "README"
+requires-python = ">=3.12"
+dependencies = [
+    "mlx",
+    "mlx-audio",
+]
